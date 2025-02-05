@@ -1,0 +1,8 @@
+html entities
+html URL encord
+html canvas
+html svg
+html plugins
+html web workes and SSE
+no need of HTML example  Reference
+
